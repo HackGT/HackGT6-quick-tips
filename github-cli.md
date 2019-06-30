@@ -1,5 +1,6 @@
 **Quick Tip: Github and Command Line Interface (CLI)**
 ======
+_Written by Stephanie Almeida, for HackGT_
 
 ## **Overview**
 This is a quick guide to help you learn the basics about Github and CLI! If you have any more questions, or want other resources, [click here](https://tutorial.djangogirls.org/en/intro_to_command_line/) for a good reference regarding CLI and [ here](https://www.atlassian.com/git/tutorials) for a good reference regarding Github.
@@ -143,5 +144,5 @@ This command will allow you to combine two branches together. Sometimes more tha
 
 ## Additional Resources
 - [CLI](https://tutorial.djangogirls.org/en/intro_to_command_line/)
-- [Github](https://www.atlassian.com/git/tutorials)
-- [Git Game](https://learngitbranching.js.org/?locale=en_US)
+- [Git, as explained by Github](https://www.atlassian.com/git/tutorials)
+- [A Game to Learn git](https://learngitbranching.js.org/?locale=en_US)
