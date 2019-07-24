@@ -10,4 +10,4 @@ Each markdown file in this repo (on this page) will walk you through a useful fu
 
 💻 Happy hacking!
 
-_Are we missing a guide you'd like to see? Open an issue!_
+_If you want to see a guide we're missing or are having trouble with installing, open an issue!_
